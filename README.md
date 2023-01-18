@@ -92,6 +92,11 @@
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasnain-js&theme=github_dark"
     alt="hasnain-js" /></p>
-
+  <p>  
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasnain-js&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  </p>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-js&layout=compact&langs_count=7&theme=github_dark" />
+  </p>
 <br>
 

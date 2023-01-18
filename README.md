@@ -83,14 +83,15 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasnain-js&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain-js&theme=github_dark"
+    alt="Hasnain-js" 
+    bg_color=#808080/>
+</p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasnain-js&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasnain-js&theme=github_dark"
+    alt="hasnain-js" /></p>
 
 <br>
 

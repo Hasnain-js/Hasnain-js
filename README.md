@@ -18,13 +18,5 @@ As a dedicated **`Frontend Developer`** with **`2 years`** of hands-on experienc
 
 **Cloud:** `AWS`.
 
-
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain-js&theme=github_dark"
-    alt="Hasnain-js" 
-    bg_color=#808080/>
-</p>
+![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnain-js)
 
